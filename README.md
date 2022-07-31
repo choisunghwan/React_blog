@@ -60,3 +60,7 @@ component 만드는 법
 Component 유의사항
 1. 이름은 대문자
 2. return()안에 있는건 태그하나로 묶어야함
+
+
+참고: https://www.youtube.com/playlist?list=PLfLgtT94nNq1e6tr4sm2eH6ZZC2jcqGOy
+
